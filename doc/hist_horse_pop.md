@@ -60,7 +60,7 @@ time point between 1940 - 1972:
     ## 8 Quebec                378800   39000
     ## 9 Saskatchewan         1104300   58000
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of British Columbia:
 
 ![](hist_horse_pop_files/figure-gfm/plot%20province-1.png)<!-- -->
 
